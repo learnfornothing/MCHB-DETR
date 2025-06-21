@@ -1,0 +1,67 @@
+<?xml version="1.0" ?><annotation>
+    <folder>VOC2007</folder>
+    <filename>2391.jpg</filename>
+<source>
+<database>orgaquant</database>
+<annotation>organoids</annotation>
+</source>
+    <size>
+        <width>450</width>
+        <height>269</height>
+        <depth>3</depth>
+    </size>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>102</xmin>
+            <ymin>57</ymin>
+            <xmax>121</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>177</xmin>
+            <ymin>67</ymin>
+            <xmax>190</xmax>
+            <ymax>80</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>233</xmin>
+            <ymin>91</ymin>
+            <xmax>244</xmax>
+            <ymax>103</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Broken hole</name>
+        <bndbox>
+            <xmin>39</xmin>
+            <ymin>104</ymin>
+            <xmax>52</xmax>
+            <ymax>117</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Broken hole</name>
+        <bndbox>
+            <xmin>78</xmin>
+            <ymin>221</ymin>
+            <xmax>92</xmax>
+            <ymax>234</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>429</xmin>
+            <ymin>51</ymin>
+            <xmax>451</xmax>
+            <ymax>239</ymax>
+        </bndbox>
+    </object>
+</annotation>

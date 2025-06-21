@@ -1,0 +1,31 @@
+<?xml version="1.0" ?><annotation>
+    <folder>VOC2007</folder>
+    <filename>1146.jpg</filename>
+<source>
+<database>orgaquant</database>
+<annotation>organoids</annotation>
+</source>
+    <size>
+        <width>450</width>
+        <height>269</height>
+        <depth>3</depth>
+    </size>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>261</xmin>
+            <ymin>55</ymin>
+            <xmax>273</xmax>
+            <ymax>72</ymax>
+        </bndbox>
+    </object>
+    <object>
+<name>Oblique printing</name>
+        <bndbox>
+            <xmin>292</xmin>
+            <ymin>67</ymin>
+            <xmax>304</xmax>
+            <ymax>81</ymax>
+        </bndbox>
+    </object>
+</annotation>
