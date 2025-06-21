@@ -1,2 +1,2 @@
 # MCHB-DETR
-This project includes the CXray dataset and the training results of various detection methods
+This project includes the source code of MCHB-DETR and the self-built Inkjet dataset
